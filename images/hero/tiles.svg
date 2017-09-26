@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1114.444px" height="904.455px" viewBox="0 0 1114.444 904.455" enable-background="new 0 0 1114.444 904.455"
+	 xml:space="preserve">
+
+<style>
+	
+	#cir5 {
+		animation: fill 8s ease infinite;
+		-webkit-animation: fill 8s ease infinite;
+		-moz-animation:    fill 8s ease infinite; 
+		-o-animation:      fill 8s ease infinite;
+		animation:         fill 8s ease infinite;	
+	}
+
+	#cir4 {
+		animation: fill 7s ease infinite;
+		-webkit-animation: fill 7s ease infinite;
+		-moz-animation:    fill 7s ease infinite; 
+		-o-animation:      fill 7s ease infinite;
+		animation:         fill 7s ease infinite;
+	}
+
+	#cir3 {
+		animation: fill 6s ease infinite;
+		-webkit-animation: fill 6s ease infinite;
+		-moz-animation:    fill 6s ease infinite; 
+		-o-animation:      fill 6s ease infinite;
+		animation:         fill 6s ease infinite;
+	}
+
+	#cir2 {
+		animation: fill 5s ease infinite;
+		-webkit-animation: fill 5s ease infinite;
+		-moz-animation:    fill 5s ease infinite; 
+		-o-animation:      fill 5s ease infinite;
+		animation:         fill 5s ease infinite;
+	}
+
+	#cir1 {
+		animation: fill 4s ease infinite;
+		-webkit-animation: fill 4s ease infinite;
+		-moz-animation:    fill 4s ease infinite; 
+		-o-animation:      fill 4s ease infinite;
+		animation:         fill 4s ease infinite;
+	}
+
+	#cir0 {
+		animation: fill 3s ease infinite;
+		-webkit-animation: fill 3s ease infinite;
+		-moz-animation:    fill 3s ease infinite; 
+		-o-animation:      fill 3s ease infinite;
+		animation:         fill 3s ease infinite;
+	}
+
+	#flag {
+		margin-top: 5px;
+		-webkit-transform: perspective(0px) rotateY(1deg);
+        -moz-transform: perspective(0px) rotateY(1deg);
+        transform: perspective(0px) rotateY(1deg);
+
+        webkit-transform-origin: left center;
+        -moz-transform-origin: unset;
+    	transform-origin: left center;
+
+	    animation: wave 3s infinite ease alternate;
+	    -webkit-animation: wave 3s infinite ease alternate;
+	    -moz-animation: wave 3s infinite ease alternate;
+	}
+
+@keyframes wave {
+
+ 	0% {
+ 		transform: translate(0px, 0px);
+ 	}
+ 	20% {
+ 		transform: translate(-2px, -1px);
+ 	}
+ 	40% {
+ 		transform: translate(-4px, 0px);
+ 	}
+ 	60% {
+ 		transform: translate(-2px, 0px);
+ 	}
+ 	80% {
+ 		transform: translate(-4px, -1px);
+ 	}
+ 	100% {
+ 		transform: translate(0px, 0px);
+ 	}
+
+}
+
+    @-webkit-keyframes fill {
+	  0% {
+          fill: #f1142b;
+      }
+      25% {
+          fill: #FFFFFF;
+      }
+      50% {
+          fill: #f1142b;
+      }
+      75% {
+          fill: #FFFFFF;
+      }
+      100% {
+          fill: #f1142b;
+      }
+	}
+	@-moz-keyframes fill {
+	  0% {
+          fill: #f1142b;
+      }
+      25% {
+          fill: #FFFFFF;
+      }
+      50% {
+          fill: #f1142b;
+      }
+      75% {
+          fill: #FFFFFF;
+      }
+      100% {
+          fill: #f1142b;
+      }
+	}
+	@-o-keyframes fill {
+	  0% {
+          fill: #f1142b;
+      }
+      25% {
+          fill: #FFFFFF;
+      }
+      50% {
+          fill: #f1142b;
+      }
+      75% {
+          fill: #FFFFFF;
+      }
+      100% {
+          fill: #f1142b;
+      }
+	}
+	@keyframes fill {
+	  0% {
+          fill: #f1142b;
+      }
+      25% {
+          fill: #FFFFFF;
+      }
+      50% {
+          fill: #f1142b;
+      }
+      75% {
+          fill: #FFFFFF;
+      }
+      100% {
+          fill: #f1142b;
+      }
+	}
+
+	
+
+</style>
+
+
+<rect x="153.54" y="705.979" fill="#96C763" width="187.495" height="184.303"/>
+<rect x="341.035" y="505.136" fill="#8EBE5B" width="187.493" height="385.146"/>
+<rect x="528.528" y="597.6" fill="#7DAE4B" width="187.494" height="292.683"/>
+<rect x="716.022" y="326.853" fill="#66963F" width="187.497" height="563.429"/>
+<rect x="901.948" y="165.308" fill="#52823B" width="187.494" height="724.974"/>
+<g>
+	<polygon id="flag" fill="#52823B" points="1104.075,68.345 1005.805,68.345 1005.805,5.178 1104.075,5.178 1078.809,36.061 	"/>
+	<rect x="995.697" y="5.178" fill="#424143" width="10.107" height="159.35"/>
+</g>
+<path fill="#FFE79C" d="M36.073,877.872c-2.511,0-4.993-1.133-6.629-3.284c-2.778-3.658-2.066-8.875,1.593-11.656l214.699-163.087
+	L428.58,495.065c2.479-2.782,6.515-3.577,9.867-1.93l191.17,93.801l177.964-264.721c0.387-0.574,0.84-1.097,1.354-1.557
+	l181.212-162.327c3.426-3.064,8.68-2.775,11.746,0.646c3.063,3.421,2.774,8.68-0.646,11.745L820.809,332.355L639.373,602.243
+	c-2.319,3.456-6.833,4.657-10.564,2.826l-192.023-94.22L257.612,711.521c-0.356,0.396-0.749,0.763-1.174,1.083L41.098,876.18
+	C39.595,877.32,37.826,877.872,36.073,877.872z"/>
+<g>
+	<path fill="#424143" d="M454.828,505.136c0,11.668-9.457,21.121-21.122,21.121c-11.666,0-21.123-9.453-21.123-21.121
+		c0-11.666,9.457-21.119,21.123-21.119C445.371,484.017,454.828,493.47,454.828,505.136z"/>
+	<circle id="cir0" fill="#3B9A85" cx="433.706" cy="505.136" r="12.288"/>
+</g>
+<g>
+	<circle fill="#424143" cx="247.286" cy="705.979" r="21.121"/>
+	<path id="cir1" fill="#3B9A85" d="M259.573,705.979c0,6.791-5.5,12.291-12.287,12.291c-6.785,0-12.286-5.5-12.286-12.291
+		c0-6.785,5.501-12.285,12.286-12.285C254.072,693.694,259.573,699.194,259.573,705.979z"/>
+</g>
+<g>
+	<path fill="#424143" d="M52.325,875.201c0,11.669-9.456,21.122-21.122,21.122c-11.665,0-21.121-9.453-21.121-21.122
+		c0-11.668,9.457-21.121,21.121-21.121C42.869,854.08,52.325,863.533,52.325,875.201z"/>
+	<circle id="cir2" fill="#3B9A85" cx="31.204" cy="875.201" r="12.287"/>
+</g>
+<g>
+	<path fill="#424143" d="M650.025,597.6c0,11.667-9.456,21.124-21.119,21.124c-11.666,0-21.124-9.457-21.124-21.124
+		c0-11.663,9.458-21.117,21.124-21.117C640.569,576.482,650.025,585.937,650.025,597.6z"/>
+	<path id="cir3" fill="#3B9A85" d="M641.193,597.6c0,6.787-5.505,12.29-12.287,12.29c-6.788,0-12.29-5.503-12.29-12.29
+		c0-6.786,5.502-12.285,12.29-12.285C635.688,585.314,641.193,590.813,641.193,597.6z"/>
+</g>
+<g>
+	<circle fill="#424143" cx="816.089" cy="326.853" r="21.121"/>
+	<path id="cir4" fill="#3B9A85" d="M828.379,326.853c0,6.787-5.505,12.289-12.288,12.289c-6.785,0-12.288-5.502-12.288-12.289
+		c0-6.786,5.503-12.288,12.288-12.288C822.874,314.565,828.379,320.067,828.379,326.853z"/>
+</g>
+<g>
+	<path fill="#424143" d="M1019.636,164.528c0,11.666-9.457,21.122-21.119,21.122c-11.666,0-21.126-9.456-21.126-21.122
+		c0-11.664,9.46-21.121,21.126-21.121C1010.179,143.407,1019.636,152.864,1019.636,164.528z"/>
+	<circle id="cir5" fill="#3B9A85" cx="998.516" cy="164.528" r="12.287"/>
+</g>
+</svg>
